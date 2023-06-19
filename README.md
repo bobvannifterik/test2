@@ -2,6 +2,9 @@
 Repository containing several implementations for the calculation of Orthogonal Moments
 Code implemented by Bob van Nifterik - TU Delft 
 
+- The functions ending XX_ALL.m calcualte the moment matrix
+- The functions ending XX_R.m calcualte the reconstructed image
+- The functions ending XX_basis.m calcuate the basis function 
 
 
 
