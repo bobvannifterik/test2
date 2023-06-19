@@ -1,6 +1,8 @@
 # Orthogonal moments
 Repository containing several implementations for the calculation of Orthogonal Moments
-Code implemented by Bob van Nifterik 
+Code implemented by Bob van Nifterik - TU Delft 
+
+
 
 
 For the implementation of the Continuous moments defined on a disk, please see to the work:
