@@ -12,7 +12,7 @@ PJFM: p = 4 and q = 3 <br />
 CHFM: p = 2 and q = 1.5 <br />
 OFMM: p = 2 and q = 2 <br />
 
-For the implementation of the other continuous moments defined on a disk, please see to the work:<br />
+For the implementation of the other continuous moments defined on a disk, please see the work:<br />
 
 https://doi.org/10.48550/arXiv.2103.14799
 
